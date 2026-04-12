@@ -1,0 +1,4 @@
+,cell_type,0,1,name,gapfill_from_transcriptome,gap_probe_sequence,genotype_from_bulk,probe_idx
+0,Jurkat,GTGT,GCGT,ANKRD11 c.913G>A,GCGT,GTGT,heterozygous,
+1,MCF-7,TCAGT,TTAGT,PIK3CA c.1633G>A,TCAGT,TTAGT,heterozygous,
+2,MCF-7,GGTG,GATG,SDHA c.1644C>T,GGTG,GATG,heterozygous,
