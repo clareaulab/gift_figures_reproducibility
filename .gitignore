@@ -1,6 +1,7 @@
 # Large data files
 *.h5ad
 MPN_all_gapfill_df.csv
+S15_phylogeny_inferCNV/output/infercnv_gene_values.npz
 
 # Editors
 .vscode/
