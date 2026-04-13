@@ -3,7 +3,7 @@
 ## Setup
 
 ### Set large data directory
-Set large data directory to directory containing large data input files
+Set large data directory to directory containing large data input files. All files can be recreated from GEO files, but intermediate file repository coming soon.
 (large_data_dir is set in 1_figure_CL_proof_of_concept/code/utils_00.py)
 
 ### Create and install required packages (all analyses except Visium)
