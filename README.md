@@ -1,10 +1,16 @@
-# Reproducing GIFT custom analyses and figures 
+# Reproducing GIFT custom analyses and figures
 
 ## Setup
 
 ### Set large data directory
-Set large data directory to directory containing large data input files. All files can be recreated from GEO files, but intermediate file repository coming soon.
-(large_data_dir is set in 1_figure_CL_proof_of_concept/code/utils_00.py)
+
+Set the large data directory to the location containing large input files.
+
+Large data directory can be downloaded from: [https://osf.io/65tbw/](https://osf.io/65tbw/)
+
+In this repository, `large_data_dir` is defined in [1_figure_CL_proof_of_concept/code/utils_00.py](1_figure_CL_proof_of_concept/code/utils_00.py).
+
+Note: input files must be unzipped before running the code. Compressed files (`.zip`) will not be found unless they are extracted to their expected paths.
 
 ### Create and install required packages (all analyses except Visium)
 
